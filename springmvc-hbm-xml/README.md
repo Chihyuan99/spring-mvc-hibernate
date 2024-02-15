@@ -1,4 +1,4 @@
-# Spring MVC + Hibernate + JSP + MySQL
+# Spring MVC + Hibernate + JSP + MySQL (XML Based Configuration)
 
 This project creates a CRUD (Create, Read, Update, Delete) application using Spring MVC, Hibernate, JSP, and MySQL database.
 

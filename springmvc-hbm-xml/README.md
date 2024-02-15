@@ -134,7 +134,7 @@ public class Customer {
 Once an application is up and running in Tomcat server then hit this link into the browser: http://localhost:8080/springmvc-hbm-xml/customer/list
 
 - List of Customers: 
-<img src="1.png" width="100%">
+<img src="1.png" width="70%">
 
 - Add Customer Page:
-<img src="2.png" width="100%">
+<img src="2.png" width="70%">
